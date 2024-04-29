@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sign-maker.github.io/project-LET_US_ACTION",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-93-react-node-Sign-maker",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
