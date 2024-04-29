@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/project-LET_US_ACTION">
+        <BrowserRouter basename="/fs-93-react-node-Sign-maker">
           <App />
         </BrowserRouter>
       </PersistGate>
