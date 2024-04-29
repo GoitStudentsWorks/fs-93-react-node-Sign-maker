@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-93-react-node-Sign-maker/static/css/main.81bb77ad.css",
-    "main.js": "/fs-93-react-node-Sign-maker/static/js/main.db833321.js",
+    "main.js": "/fs-93-react-node-Sign-maker/static/js/main.41b78c99.js",
     "static/css/330.2f134ab6.chunk.css": "/fs-93-react-node-Sign-maker/static/css/330.2f134ab6.chunk.css",
     "static/js/330.dd8d87ae.chunk.js": "/fs-93-react-node-Sign-maker/static/js/330.dd8d87ae.chunk.js",
     "static/css/108.b765fbed.chunk.css": "/fs-93-react-node-Sign-maker/static/css/108.b765fbed.chunk.css",
@@ -41,7 +41,7 @@
     "static/media/glass.svg": "/fs-93-react-node-Sign-maker/static/media/glass.44812488d21077f6cec3bded7f20720d.svg",
     "index.html": "/fs-93-react-node-Sign-maker/index.html",
     "main.81bb77ad.css.map": "/fs-93-react-node-Sign-maker/static/css/main.81bb77ad.css.map",
-    "main.db833321.js.map": "/fs-93-react-node-Sign-maker/static/js/main.db833321.js.map",
+    "main.41b78c99.js.map": "/fs-93-react-node-Sign-maker/static/js/main.41b78c99.js.map",
     "330.2f134ab6.chunk.css.map": "/fs-93-react-node-Sign-maker/static/css/330.2f134ab6.chunk.css.map",
     "330.dd8d87ae.chunk.js.map": "/fs-93-react-node-Sign-maker/static/js/330.dd8d87ae.chunk.js.map",
     "108.b765fbed.chunk.css.map": "/fs-93-react-node-Sign-maker/static/css/108.b765fbed.chunk.css.map",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.81bb77ad.css",
-    "static/js/main.db833321.js"
+    "static/js/main.41b78c99.js"
   ]
 }
